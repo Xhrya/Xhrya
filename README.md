@@ -7,8 +7,7 @@ I'm Shreya Pandey, a computer engineering and computer science student who loves
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with building applications using MPI and CUDA
 - 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [your email]
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to program in C :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhrya&show_icons=true&theme=radical)
@@ -18,6 +17,8 @@ I'm Shreya Pandey, a computer engineering and computer science student who loves
 
 <!--
 **Xhrya/xhrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: 
+
 
 Here are some ideas to get you started:
 
