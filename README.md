@@ -11,7 +11,7 @@ I'm Shreya Pandey, a computer engineering and computer science student who loves
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to program in C :)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhrya&show_icons=true&theme=radical)
 
 
 
