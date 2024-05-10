@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Shreya Pandey, a computer engineering and computer science student who loves to explore the intersection of technology and creativity. Here's a little about me:
+
+- 🔭 I’m currently working on a web app to act as a virtual closet. 
+- 🌱 I’m currently learning more about cloud services and artificial intelligence.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with building applications using MPI and CUDA
+- 💬 Ask me about anything tech-related!
+- 📫 How to reach me: [your email]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to program in C :)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
+
 <!--
 **Xhrya/xhrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
